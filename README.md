@@ -1,5 +1,5 @@
 # odin-recipes
-The following repo is a project from following (https://www.theodinproject.com/about)[The Odin Project's] "Foundations" course. 
+The following repo is a project from following [https://www.theodinproject.com/about](The Odin Project's) "Foundations" course. 
 
 ## What is this project?
 The main goal is to create a basic recipe website. 
