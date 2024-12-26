@@ -12,7 +12,6 @@ At the time of writing this (12/26/2024) I have not yet learned CSS, so this sit
 ### Skills Demonstrated via Project
 1. Basic understanding of Git and GitHub
    - Includes commits with accurate messages
-     - Second nested list item
 2. Understanding of the HTML Fundamentals
    - Basic formatting
      - Bold
@@ -20,4 +19,4 @@ At the time of writing this (12/26/2024) I have not yet learned CSS, so this sit
      - Ordered lists
      - Unordered lists
    - Images
-   -Relative Links
+   - Relative Links
