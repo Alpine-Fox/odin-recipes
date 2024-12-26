@@ -25,4 +25,4 @@ At the time of writing this (12/26/2024) I have not yet learned CSS, so this sit
 - [ ] CSS styling
 - [ ] Swap images to pictures of the actual recipe
 - [ ] Add more recipes
-- [ ] /(Maybe, depends on difficulty to execute) Add search/sorting to make more user-friendly
+- [ ] \(Maybe, depends on difficulty to execute) Add search/sorting to make more user-friendly
