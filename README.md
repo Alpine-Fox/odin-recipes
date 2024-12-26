@@ -1,5 +1,6 @@
 # odin-recipes
-The following repo is a project from following [The Odin Project's](https://www.theodinproject.com/about) "Foundations" course. 
+The following repo is a project from following [The Odin Project's](https://www.theodinproject.com/about) "Foundations" course.
+Click [here](https://alpine-fox.github.io/odin-recipes/) to access the project!
 
 ## What is this project?
 The main goal is to create a basic recipe website. 
