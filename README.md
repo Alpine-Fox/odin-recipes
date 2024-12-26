@@ -10,10 +10,14 @@ The landing page will have a list of a couple recipes, with links leading to the
 At the time of writing this (12/26/2024) I have not yet learned CSS, so this site will not look good. Later throughout this course, I will re-visit this project.
 
 ### Skills Demonstrated via Project
-*Basic understanding of Git and GitHub
- Includes commits with accurate messages
-*Understanding of the HTML Fundamentals
- Basic formatting
-  Bold, itallics, unordered/ordered lists, etc.
- Images
- Relative Links
+1. Basic understanding of Git and GitHub
+   - Includes commits with accurate messages
+     - Second nested list item
+2. Understanding of the HTML Fundamentals
+   - Basic formatting
+     - Bold
+     - Itallics
+     - Ordered lists
+     - Unordered lists
+   - Images
+   -Relative Links
