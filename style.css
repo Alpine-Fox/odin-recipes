@@ -11,3 +11,22 @@ a:link {
 a:visited {
     color: purple;
 }
+
+.header.main {
+    font-size: 46px;
+    background-color: #292929;
+}
+
+h2 {
+    font-size: 28px;
+    background-color: #1f1f1f;
+}
+
+li {
+    font-size: 22px;
+}
+
+#btn-back {
+    background-color: #490000;
+    font-size: 16px;
+}
