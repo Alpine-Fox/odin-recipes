@@ -22,7 +22,8 @@ At the time of writing this (12/26/2024) I have not yet learned CSS, so this sit
    - Relative Links
 
 ### What Would You Like To Add or Change In The Future?
-- [ ] CSS styling
+- [ x ] Basic CSS styling
+- [ ] "Advanced" CSS styling
 - [ ] Swap images to pictures of the actual recipe
 - [ ] Add more recipes
 - [ ] \(Maybe, depends on difficulty to execute) Add search/sorting to make more user-friendly)
