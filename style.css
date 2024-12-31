@@ -1,0 +1,13 @@
+* {
+    background-color: #1a1a1a;
+    font-family: Garamond, Brush Script MT, Times New Roman, serif;
+    color: whitesmoke;
+}
+
+a:link {
+    color: blue;
+}
+
+a:visited {
+    color: purple;
+}
