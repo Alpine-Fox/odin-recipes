@@ -5,11 +5,11 @@
 }
 
 a:link {
-    color: blue;
+    color: whitesmoke;
 }
 
 a:visited {
-    color: purple;
+    color: rgb(185, 185, 185);
 }
 
 .header.main {
